@@ -1,0 +1,14 @@
+.main-div mat-card {
+    padding: 0;
+}
+
+.login-form {
+    padding: 20px;
+}
+
+.alert {
+    background-color: crimson;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5%;
+}

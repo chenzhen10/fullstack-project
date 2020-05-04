@@ -1,0 +1,47 @@
+table {
+    width: 100%;
+}
+
+h1 {
+    padding: 5%;
+    font-weight: bold;
+    font-size: 50px;
+    display: inline-block;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+button {
+    margin-right: 15px;
+}
+
+input {
+    display: inline-block;
+}
+
+.search {
+    margin-left: 5%;
+}
+
+.logout {
+    margin: 7%;
+    float: right;
+}
+
+.search-btn {
+    margin-left: 20px;
+    border-radius: 30px;
+}
+
+.add-btn {
+    padding-top: 1%;
+    display: inline-block;
+}
+
+.stat {
+    padding-top: 1%;
+    float: right;
+}

@@ -1,0 +1,34 @@
+.main-div mat-card {
+    padding: 0;
+}
+
+.login-form {
+    padding: 20px;
+}
+
+.range {
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#name,
+#model,
+#range,
+#type,
+#unit,
+#location,
+#description {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
